@@ -1,4 +1,4 @@
-"author","year","pmid","experimental_events","experimental_total","control_events","control_total","cofactor1","Risk.of.Bias","Trial.registration"
+"author","year","pmid","experimental_events","experimental_total","control_events","control_total","Location","Risk.of.Bias","Trial.registration"
 "Briel",2008,0,0,232,1,226,"Primary care trials",NA,NA
 "Burkhardt",2010,0,0,275,0,275,"Primary care trials",NA,NA
 "Christ-Crain",2004,0,4,124,3,119,"Emergency department trials",NA,NA
