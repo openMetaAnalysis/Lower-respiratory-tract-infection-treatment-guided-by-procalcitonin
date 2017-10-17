@@ -8,10 +8,16 @@ A living systematic review
 * [Keep current with this topic](files/searching/Keep-up.md) (not available)
 
 **Methods overview:** This repository is an [openMetaAnalysis](https://openmetaanalysis.github.io/) that combines methods of scoping, rapid, and living systematic reviews.  This analysis updates one or more previously published review(s).(1) A comparison of studies include in this review compared to prior reviews are in the table, [reconciliation of trials included with prior meta-analyses/](files/reconciliation-tables/Reconciliation%20of%20studies.pdf). Newer studies included are listed in the references below. Rationale for newer trials excluded may be listed at the end of the references. 
+<<<<<<< HEAD
 * Inclusion criteria for studies: we included trials included by either of the two reviews by Scheutz et al below. 
 ** We excluded trials in which less than 80% of patients had lower respiratory tract infection.
 * [Methods](http://openmetaanalysis.github.io/methods.html) for openMetaAnalysis
 * [Evidence search](files/searching/evidence-search.md) for this review (under construction)
+=======
+* Inclusion criteria for studies: we included...
+* [Evidence search](files/searching/evidence-search.md) for this review (under construction)
+* [Methods](http://openmetaanalysis.github.io/methods.html) for openMetaAnalysis
+>>>>>>> origin/master
 
 **Results:** Details of the studies included are in the:
 * [Reconciliation of trials included with prior meta-analyses/](files/reconciliation-tables/Reconciliation%20of%20studies.pdf) (under construction)
