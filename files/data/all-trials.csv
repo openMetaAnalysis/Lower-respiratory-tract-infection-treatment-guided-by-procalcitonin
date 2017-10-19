@@ -3,7 +3,7 @@ Briel,        2008,0,0,232,1,226,Primary care trials,,NA,NA
 Burkhardt,    2010,0,0,275,0,275,Primary care trials,,NA,NA
 Christ-Crain, 2004,0,4,124,3,119,Emergency department trials,,NA,NA
 Christ-Crain, 2006,0,18,151,20,151,Emergency department trials,,NA,NA
-Stolz,        2007,0,3,102,2,106,Emergency department trials,,NA,NA
+Stolz,        2007,19797133,3,102,2,106,Emergency department trials,100,NA,NA
 Schuetz,      2009,0,34,671,33,688,Emergency department trials,,NA,NA
 Long,         2009,0,0,63,0,64,Emergency department trials,,NA,NA
 Kristoffersen,2009,0,2,103,1,107,Emergency department trials,,NA,NA
@@ -18,16 +18,16 @@ Lima,         2016,0,4,30,2,31,Emergency department trials,,NA,NA
 Nobre,        2008,0,8,39,8,40,Intensive care unit trials,,NA,NA
 Schroeder,    2009,19034493,3,14,3,13,Intensive care unit trials,30,NA,NA
 Stolz,        2009,0,8,51,12,50,Intensive care unit trials,,NA,NA
-Hochreiter,   2009,0,15,57,14,53,Intensive care unit trials,,NA,NA
+Hochreiter,   2009,19493352,15,57,14,53,Intensive care unit trials,40,NA,NA
 Bouadma,      2010,0,65,307,64,314,Intensive care unit trials,,NA,NA
-Maravić-Stojković,2011,0,3,102,3,103,Intensive care unit trials,,NA,NA
-Layios,2012,0,56,258,53,251,Intensive care unit trials,,NA,NA
-Ding,2013,0,21,33,20,35,Intensive care unit trials,,NA,NA
-Annane,2013,23418298,7,30,10,28,Intensive care unit trials,0,NA,NA
-Deliberato,2013,0,2,42,4,39,Intensive care unit trials,,NA,NA
-Oliveira,2013,23921272,16,49,15,45,Intensive care unit trials,64,NA,NA
-Shehabi,2014,0,30,196,26,198,Intensive care unit trials,,NA,NA
-Najafi,2015,0,5,30,4,30,Intensive care unit trials,,NA,NA
-Bloos,2016,0,140,552,149,537,Intensive care unit trials,No,NA,NA
-Wang,2016,0,2,96,5,95,Intensive care unit trials,,NA,NA
-De Jong,2016,0,149,761,196,785,Intensive care unit trials,No,NA,NA
+Maravić-Stojković,2011,22338468,3,102,3,103,Intensive care unit trials,2,NA,NA
+Layios,       2012,0,56,258,53,251,Intensive care unit trials,,NA,NA
+Ding,         2013,0,21,33,20,35,Intensive care unit trials,,NA,NA
+Annane,       2013,23418298,7,30,10,28,Intensive care unit trials,0,NA,NA
+Deliberato,   2013,0,2,42,4,39,Intensive care unit trials,,NA,NA
+Oliveira,     2013,23921272,16,49,15,45,Intensive care unit trials,64,NA,NA
+Shehabi,      2014,0,30,196,26,198,Intensive care unit trials,,NA,NA
+Najafi,       2015,26553084,5,30,4,30,Intensive care unit trials,57,NA,NA
+Bloos,        2016,0,140,552,149,537,Intensive care unit trials,No,NA,NA
+Wang,         2016,0,2,96,5,95,Intensive care unit trials,,NA,NA
+De Jong,      2016,26947523,149,761,196,785,Intensive care unit trials,64,NA,NA
