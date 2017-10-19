@@ -1,4 +1,4 @@
-author,year,pmid,experimental_events,experimental_total,control_events,control_total,Location,Pneumonia.adquate,Risk.of.Bias,Trial.registration
+author,year,pmid,experimental_events,experimental_total,control_events,control_total,Location,Pneumonia.rate,Risk.of.Bias,Trial.registration
 Briel,2008,0,0,232,1,226,Primary care trials,,NA,NA
 Burkhardt,2010,0,0,275,0,275,Primary care trials,,NA,NA
 Christ-Crain,2004,0,4,124,3,119,Emergency department trials,,NA,NA
@@ -23,7 +23,7 @@ Bouadma,2010,0,65,307,64,314,Intensive care unit trials,,NA,NA
 Maravić-Stojković,2011,0,3,102,3,103,Intensive care unit trials,,NA,NA
 Layios,2012,0,56,258,53,251,Intensive care unit trials,,NA,NA
 Ding,2013,0,21,33,20,35,Intensive care unit trials,,NA,NA
-Annane,2013,0,7,30,10,28,Intensive care unit trials,,NA,NA
+Annane,2013,23418298,7,30,10,28,Intensive care unit trials,0,NA,NA
 Deliberato,2013,0,2,42,4,39,Intensive care unit trials,,NA,NA
 Oliveira,2013,0,16,49,15,45,Intensive care unit trials,,NA,NA
 Shehabi,2014,0,30,196,26,198,Intensive care unit trials,,NA,NA
