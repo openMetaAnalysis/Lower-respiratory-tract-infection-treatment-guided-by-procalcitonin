@@ -15,10 +15,11 @@ Randomized trials of [disease] that compare [intervention] to placebo.
 * 12 total citations found (search results reviewed 6/x/2017; 0 additional studies found)
 
 ### Vector searching ('Related citations' search)
-(under construction)
-Seed articles: PMIDs [26314489,28552271,28140013,9851958,2897005](https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&tool=SUMSearch2plugins&otool=kumclib&term=26314489%2028552271%2028140013%209851958%202897005)
-* [595 citations](https://www.ncbi.nlm.nih.gov/pubmed?linkname=pubmed_pubmed&from_uid=26314489,28552271,28140013,9851958,2897005)
-* 99 citations when above limited to years 2014 - 2017 (time period after Cochrane review)
+(under construction) 10/22/2017
+Seed articles: PMIDs [14987884,16603606,19797133,19738090,19576090,19416298,21507143,24341820,25189222,24636266,25910632,25760346,27382274,27118539,18096708,19034493,19797133,19493352,20097417,22338468,22809906,23781136,23418298,23711530,23921272,25295709,26553084,27428731,27155210,](https://www.ncbi.nlm.nih.gov/pubmed/?term=14987884+16603606+19797133+19738090+19576090+19416298+21507143+24341820+25189222+24636266+25910632+25760346+27382274+27118539+18096708+19034493+19797133+19493352+20097417+22338468+22809906+23781136+23418298+23711530+23921272+25295709+26553084+27428731+27155210%5Buid%5D)
+* [1737 citations](https://www.ncbi.nlm.nih.gov/pubmed?linkname=pubmed_pubmed&from_uid=14987884,16603606,19797133,19738090,19576090,19416298,21507143,24341820,25189222,24636266,25910632,25760346,27382274,27118539,18096708,19034493,19797133,19493352,20097417,22338468,22809906,23781136,23418298,23711530,23921272,25295709,26553084,27428731,27155210)
+* 263 citations when above limited to years 2017 (time period after Cochrane review)
+* 49 citations when above limited to years 2017 and with term `random*`
   * [X additional articles found](https://www.ncbi.nlm.nih.gov/pubmed?linkname=pubmed_pubmed&from_uid=15570651)
 
 ## ClinicalTrials.gov
