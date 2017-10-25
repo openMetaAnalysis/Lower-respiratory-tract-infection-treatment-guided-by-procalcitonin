@@ -1,4 +1,6 @@
 author,year,pmid,experimental_events,experimental_total,control_events,control_total,Setting,LRTI.rate,Adherence,Risk.of.Bias,Trial.registration
+Briel,2008,18852401,0,232,1,226,Primary care trials,58,85,NA,NA
+Burkhardt,2010,20185423,0,275,0,275,Primary care trials,36,87,NA,NA
 Christ-Crain,2004,14987884,4,124,3,119,Emergency department trials,90,83,NA,NA
 Christ-Crain,2006,16603606,18,151,20,151,Emergency department trials,100,87,NA,NA
 Stolz,2007,19797133,3,102,2,106,Emergency department trials,100,NA,NA,NA
@@ -12,5 +14,19 @@ Ogasawara,2014,24636266,5,48,10,48,Emergency department trials,100,NA,NA,NA
 Branche,2015,25910632,1,151,2,149,Emergency department trials,100,64,NA,NA
 Verduri,2015,25760346,3,88,2,90,Emergency department trials,100,96,NA,NA
 Corti,2016,27382274,1,62,2,58,Emergency department trials,100,61,NA,NA
+Lima,2016,27118539,4,30,2,31,Emergency department trials,0,73,NA,NA
+Nobre,2008,18096708,8,39,8,40,Intensive care unit trials,69,81,NA,NA
+Schroeder,2009,19034493,3,14,3,13,Intensive care unit trials,30,NA,NA,NA
 Stolz,2009,19797133,8,51,12,50,Intensive care unit trials,100,NA,NA,NA
+Hochreiter,2009,19493352,15,57,14,53,Intensive care unit trials,40,NA,NA,NA
+Bouadma,2010,20097417,65,307,64,314,Intensive care unit trials,46,47,NA,NA
+Maravić-Stojković,2011,22338468,3,102,3,103,Intensive care unit trials,2,NA,NA,NA
+Layios,2012,22809906,56,258,53,251,Intensive care unit trials,63,46,NA,NA
 Ding,2013,23781136,21,33,20,35,Intensive care unit trials,100,100,NA,NA
+Annane,2013,23418298,7,30,10,28,Intensive care unit trials,0,24,NA,NA
+Deliberato,2013,23711530,2,42,4,39,Intensive care unit trials,19,48,NA,NA
+Oliveira,2013,23921272,16,49,15,45,Intensive care unit trials,64,87,NA,NA
+Shehabi,2014,25295709,30,196,26,198,Intensive care unit trials,43,97,NA,NA
+Najafi,2015,26553084,5,30,4,30,Intensive care unit trials,57,NA,NA,NA
+Bloos,2016,27428731,140,552,149,537,Intensive care unit trials,45,16,NA,NA
+De Jong,2016,26947523,149,761,196,785,Intensive care unit trials,64,44,NA,NA
