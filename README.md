@@ -3,9 +3,11 @@ Data-only living review: pneumonia treatment guided by procalcitonin
 A living systematic review
 
 **Clinical summary:** This meta-analysis suggests that clinical intervention *is not* effective when the analysis is restricted to trials in which at lesat 75% of subjects had lower respiratory tract infection. In addition, meta-regression suggests that increased compliance with the procalcitonin protocol within a trial correlates with *less* benefit. Lastly, in most trials, the quality of care in the control group [had not been optimized](https://www.wikidoc.org/index.php/Randomized_controlled_trial#Control_group_optimization). Heterogeneity of results as measured by I2 may '[not be important](http://handbook-5-1.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at 0%. This review updates the previously published meta-analysis.(1)
+
+* [Reconciliation of conclusions with prior meta-analyses](files/reconciliation-tables/Reconciliation%20of%20conclusions.pdf)
 <!--
-* [Reconciliation of conclusions with prior meta-analyses](files/reconciliation-tables/Reconciliation%20of%20conclusions.pdf) (under construction)-->
 * [Keep current with this topic](files/searching/Keep-up.md) (not available)
+-->
 
 **Methods overview:** This repository is an [openMetaAnalysis](https://openmetaanalysis.github.io/) that combines methods of scoping, rapid, and living systematic reviews.  This analysis updates one or more previously published review(s).(1) A comparison of studies include in this review compared to prior reviews are in the table, [reconciliation of trials included with prior meta-analyses/](files/reconciliation-tables/Reconciliation%20of%20studies.pdf). Newer studies included are listed in the references below. Rationale for newer trials excluded may be listed at the end of the references. 
 * Inclusion criteria for studies: we included trials included by either of the two reviews by Scheutz et al below. 
@@ -14,7 +16,8 @@ A living systematic review
 * [Evidence search](files/searching/evidence-search.md) for this review 
 
 **Results:** Details of the studies included are in the:
-<!--* [Reconciliation of trials included with prior meta-analyses/](files/reconciliation-tables/Reconciliation%20of%20studies.pdf) (under construction)
+* [Reconciliation of trials included with prior meta-analyses](files/reconciliation-tables/Reconciliation%20of%20studies.pdf)
+<!--
 * [Description of studies (PICO table)](files/study-details/table-pico.pdf) (under construction)
 * [Risk of bias assessment](files/study-details/table-bias.pdf) (under construction)-->
 * [Forest plots](../master/files/forest-plots) ([source data](files/data))
@@ -31,7 +34,7 @@ References:
 
 ### Systematic review(s)
 #### Most recent review at time of last revision of this repository
-1. Schuetz et al. Effect of procalcitonin-guided antibiotic treatment on mortality in acute respiratory infections: a patient level meta-analysis. Lancet Infectious Disease. 2017 doi:[10.1016/S1473-3099(17)30592-3](http://doi.org/10.1016/S1473-3099(17)30592-3)
+1. Schuetz et al. Effect of procalcitonin-guided antibiotic treatment on mortality in acute respiratory infections: a patient level meta-analysis. Lancet Infectious Disease. 2017 doi:[10.1016/S1473-3099(17)30592-3](http://doi.org/10.1016/S1473-3099(17)30592-3) PMID: 29037960](http://pubmed.gov/29037960)
 2. Schuetz P, Wirz Y, Sager R, Christ-Crain M, Stolz D, Tamm M, et al. Procalcitonin to initiate or discontinue antibiotics in acute respiratory tract
 infections. Cochrane Database Syst Rev. 2017 Oct 13;10:CD007498. doi: [10.1002/14651858.CD007498.pub3](http://doi.org/10.1002/14651858.CD007498.pub3). PMID: [29025194](http://pubmed.gov/29025194)
 
