@@ -34,7 +34,7 @@ References:
 
 ### Systematic review(s)
 #### Most recent review at time of last revision of this repository
-1. Schuetz et al. Effect of procalcitonin-guided antibiotic treatment on mortality in acute respiratory infections: a patient level meta-analysis. Lancet Infectious Disease. 2017 doi:[10.1016/S1473-3099(17)30592-3](http://doi.org/10.1016/S1473-3099(17)30592-3) PMID: 29037960](http://pubmed.gov/29037960)
+1. Schuetz et al. Effect of procalcitonin-guided antibiotic treatment on mortality in acute respiratory infections: a patient level meta-analysis. Lancet Infectious Disease. 2017 doi:[10.1016/S1473-3099(17)30592-3](http://doi.org/10.1016/S1473-3099(17)30592-3) PMID: [29037960](http://pubmed.gov/29037960)
 2. Schuetz P, Wirz Y, Sager R, Christ-Crain M, Stolz D, Tamm M, et al. Procalcitonin to initiate or discontinue antibiotics in acute respiratory tract
 infections. Cochrane Database Syst Rev. 2017 Oct 13;10:CD007498. doi: [10.1002/14651858.CD007498.pub3](http://doi.org/10.1002/14651858.CD007498.pub3). PMID: [29025194](http://pubmed.gov/29025194)
 
