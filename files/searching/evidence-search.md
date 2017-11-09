@@ -3,7 +3,6 @@
 Randomized trials of lower respiratory tract infection that compare procalcitonin-guided antibiotic therapy to other care.
 
 ## Reconciliation tables
-(under construction)
 * [Comparison of included studies with prior systematic reviews](../reconciliation-tables)
 
 ## PubMed
