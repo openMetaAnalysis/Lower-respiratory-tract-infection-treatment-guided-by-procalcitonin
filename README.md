@@ -1,4 +1,4 @@
-Data-only living review: pneumonia treatment guided by procalcitonin
+Data-only living review: lower respiratory tract infection treatment guided by procalcitonin
 ============================================
 A living systematic review
 
