@@ -60,7 +60,7 @@ controlled trial. JAMA. 2009 Sep 9;302(10):1059-66. doi: 10.1001/jama.2009.1297.
 14. Christ-Crain M, Jaccard-Stolz D, Bingisser R, Gencay MM, Huber PR, Tamm M, Müller B. Effect of procalcitonin-guided treatment on antibiotic use and outcome in lower respiratory tract infections: cluster-randomised, single-blinded intervention trial. Lancet. 2004 Feb 21;363(9409):600-7. PMID: [14987884](http://pubmed.gov/14987884)
 
 #### Trial(s) undergoing review
-None
+1. Huang DT, Yealy DM, Filbin MR, et al; ProACT Investigators. Procalcitonin-Guided Use of Antibiotics for Lower Respiratory Tract Infection. N Engl J Med. 2018 May 20. doi: [10.1056/NEJMoa1802670](http://doi.org/10.1056/NEJMoa1802670). PMID: [29781385](http://pubmed.gov/29781385)
 
 #### Trial(s) excluded - selected list of important trial(s)
 1. Wang JX, Zhang SM, Li XH, Zhang Y, Xu ZY, Cao B. Acute exacerbations of chronic obstructive pulmonary disease with low serum procalcitonin values do not benefit from antibiotic treatment: a prospective randomized controlled trial. Int J Infect Dis. 2016 Jul;48:40-5. doi: 10.1016/j.ijid.2016.04.024. PMID: [27155210](http://pubmed.gov/27155210) *Was not a trial of PCT-guided algorithm. [Details](https://github.com/openMetaAnalysis/Pneumonia-treatment-guided-by-procalcitonin/issues/3)*
