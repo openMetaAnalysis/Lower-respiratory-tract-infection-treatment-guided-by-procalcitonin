@@ -40,7 +40,7 @@ infections. Cochrane Database Syst Rev. 2017 Oct 13;10:CD007498. doi: [10.1002/1
 
 ### Randomized controlled trials
 #### New trial(s) *not* included in the most recent review above
-1. None
+1. Huang DT, Yealy DM, Filbin MR, Brown AM, Chang CH, Doi Y, Donnino MW, Fine J, Fine MJ, Fischer MA, Holst JM, Hou PC, Kellum JA, Khan F, Kurz MC, Lotfipour S, LoVecchio F, Peck-Palmer OM, Pike F, Prunty H, Sherwin RL, Southerland L, Terndrup T, Weissfeld LA, Yabes J, Angus DC; ProACT Investigators. Procalcitonin-Guided Use of Antibiotics for Lower Respiratory Tract Infection. N Engl J Med. 2018 Jul 19;379(3):236-249. doi: [10.1056/NEJMoa1802670](http://doi.org/10.1056/NEJMoa1802670). PMID: [29781385](http://pubmed.gov/29781385)
 
 #### Trial(s) included in the review above
 1. Corti C, Fally M, Fabricius-Bjerre A, Mortensen K, Jensen BN, Andreassen HF, Porsbjerg C, Knudsen JD, Jensen JU. Point-of-care procalcitonin test to reduce antibiotic exposure in patients hospitalized with acute exacerbation of COPD. Int J Chron Obstruct Pulmon Dis. 2016 Jun 22;11:1381-9. doi: 10.2147/COPD.S104051. PMID: [27382274](http://pubmed.gov/27382274)
