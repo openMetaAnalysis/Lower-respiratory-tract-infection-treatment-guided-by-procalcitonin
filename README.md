@@ -70,7 +70,8 @@ Additional trials excluded because < 75% of patients had lower respiratory tract
 #### Cited by
 This repository is cited by:
 
-1. WikiDoc contributors. Procalcitonin. WikiDoc. Nov 9, 2017. Available at: https://www.wikidoc.org/index.php/Procalcitonin#Guiding_antibiotic_therapy. Accessed November 9, 2017. 
+1. Keshary A, Badgett RG. Reassessment of a meta-analysis of procalcitonin-guided antibiotic therapy for lower respiratory tract infections. Lancet Infect Dis. 2018 Feb;18(2):140. doi: 10.1016/S1473-3099(18)30014-8. PMID: [29412955](http://pubmed.gov/29412955).
+2. WikiDoc contributors. Procalcitonin. WikiDoc. Nov 9, 2017. Available at: https://www.wikidoc.org/index.php/Procalcitonin#Guiding_antibiotic_therapy. Accessed November 9, 2017. 
 
 -------------------------------
 [Cite and use this content](https://github.com/openMetaAnalysis/openMetaAnalysis.github.io/blob/master/reusing.MD)  - [Edit this page](../../edit/master/README.md) - [History](../../commits/master/README.md)  - 
